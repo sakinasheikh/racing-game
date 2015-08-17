@@ -1,0 +1,34 @@
+table {
+  margin: 20px;
+}
+
+table tr td {
+  height: 50px;
+  width: 50px;
+  padding: 10px; 
+  border-color: solid red;
+}
+
+.end {
+  border-left: solid red;
+}
+
+.border {
+  height: 100px;
+  width: 700px;
+  padding: 10px;
+  border: 5px;
+  border-style: dotted;
+}
+
+.peaceSize {
+	font-size: 80px;
+}
+
+.peace1 {
+	color: blue;
+}
+
+.peace2 {
+	color: rgb(255,0,255);
+}
